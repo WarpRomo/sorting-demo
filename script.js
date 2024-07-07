@@ -13,7 +13,7 @@ let switchState = {state: "stop"};
 let options = [selectionSort, mergeSort, quickSort, heapSort];
 let optionNames = ["Selection Sort", "Merge Sort", "Quick Sort", "Heap Sort"];
 
-let currentSort = 0;
+let currentSort = 1;
 
 function setup(sorting){
   currentSort = sorting;
