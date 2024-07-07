@@ -1,7 +1,7 @@
 
 window.onload = () => {
   document.body.style.opacity = 1;
-  setup(0)
+  setup(1)
  };
 
 let sortParams = {amount: 20}
